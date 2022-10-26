@@ -88,6 +88,12 @@
 - Bio: Flutter Developer and B. Tech. pursuing student
 - GitHub: [Abhishek Kayal](https://github.com/Drako-Rexon)
 
+#### Name: [Swarnava Bhattacharyya](https://github.com/Rivuozil)
+
+- Place: Kolkata,India
+- Bio: ECE Undergrad 
+- Github: [Rivuozil](https://github.com/Rivuozil)
+
 #### Name: [Atharva Belapurkar](https://github.com/Captaiin)
 
 - Place: Pune, Maharashtra, India
